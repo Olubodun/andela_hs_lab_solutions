@@ -1,3 +1,5 @@
+# A program which returns the power of a given integer 
+# with integer and exponent provided.
 def power(n,i):
 	if (type(n) and type(i)) == int or (type(n) and type(i)) == float:
 		if i==0:
