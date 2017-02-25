@@ -1,3 +1,4 @@
+# A program which removes dubplicates from a string 
 def remove_duplicates(string):
     duplicates=[]
     alpha='abcdefghijklmnopqrstuvwxyz'
