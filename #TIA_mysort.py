@@ -1,3 +1,5 @@
+# A program which sorts list of numbers
+# by odds followed by even
 def my_sort(input_list):
     odd=[]
     even=[]
