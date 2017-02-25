@@ -1,3 +1,4 @@
+# A program which checks for words with repeating letters
 def is_isogram(word):
 	if word==" ":
 		return (word,False)
