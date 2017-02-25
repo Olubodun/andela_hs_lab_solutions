@@ -6,5 +6,4 @@ def is_isogram(word):
 	else:
 		for i in word:
 			a=[word.count(x) for x in word]
-		return tuple((word,len(word)==sum(a)))		
-print is_isogram("")
+		return tuple((word,len(word)==sum(a)))
