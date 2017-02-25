@@ -1,3 +1,4 @@
+// A program which returns the longest string in a sentence
 function longest(inStr){
 	inStr = inStr.toString();
 	inStr = inStr.split(" ");
@@ -13,4 +14,3 @@ function longest(inStr){
 	}	
 	return longest;
 }
-longest("This is Andela")
