@@ -1,3 +1,4 @@
+# A shopping cart program modelled with OOP
 class ShoppingCart:
     def __init__(self):
         total=0
